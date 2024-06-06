@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='0 - Home'/>
+        <page name='1 - Data Flow'/>
+        <page name='2 - Publisher &amp; Subscriber'/>
+        <page name='3 - Assign To UIKit'/>
+        <page name='4 - Assign Memory Cycle'/>
+        <page name='5 - Assign with @Published'/>
+    </pages>
+</playground>
